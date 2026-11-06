@@ -91,13 +91,11 @@ make distclean
 
 ### Neutra OS 0.4
 
-![neutra0.4](Pic/Example_shell_oldv4.png)
+![neutra0.4](Pic/Example_shell_oldver0.4.png)
 
 ### Neutra OS 0.8
-![neutra0.8](Pic/Example_shell.png)
-
-
+![neutra0.8](Pic/Example_shellver0.8.png)
 
 ### Neutra OS 0.9
 
-![neutra0.9](Pic/Example_desktopv0.9.png)
+![neutra0.9](Pic/Example_desktopver0.9.png)
