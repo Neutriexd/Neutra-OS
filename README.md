@@ -86,7 +86,9 @@ make distclean
 - added developer
 - added brush
 - uhh brush
-
+## Dev log
+I decidete to ad a dev log so i dont need to commit every thing that i make 
+but talk about that - 18:33 | 17.11.2026
 ## screenshots
 
 ### Neutra OS 0.4
