@@ -1,6 +1,6 @@
 # neutra os
 
-neutra is a small 32-bit operating system project for x86. it boots with grub using the multiboot2 protocol and is built as a freestanding kernel.
+neutra is a small 64-bit operating system project for x86. it boots with grub using the multiboot2 protocol and is built as a freestanding kernel.
 
 ## requirements
 
