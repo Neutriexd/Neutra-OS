@@ -92,6 +92,8 @@ but talk about that - 18:33 | 17.11.2026
 
 I finaly fixed booting evrey time i boot it will crash to recovery mode but now it boots and i will
 add better grapics, new window frame, better font, partially working browser, more apps, a secret feature ( good luck finding that iin the code ), a boot screen like linux that soon test scripts and does a self check, and more / 12:35 18.11.2026
+
+Okay so i added bootflags.c .h and extendet header.asm and main.asm and will be working on a cross compiler and a elf loader so i can compile and run .exe´s in neutra ig / 21:38 22.11.2026
 ## screenshots
 
 ### Neutra OS 0.4
