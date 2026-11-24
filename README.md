@@ -101,6 +101,10 @@ Okay so i added bootflags.c .h and extendet header.asm and main.asm and will be 
 
 21:38 22.11.2026
 
+I am now working on the elf loader
+
+15:25 24.11.2026
+
 ## screenshots
 
 ### Neutra OS 0.4
